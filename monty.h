@@ -1,5 +1,5 @@
-#ifndef TADEM_H
-#define TADEM_H
+#ifndef MAIN_H
+#define MAIN_H
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -85,4 +85,4 @@ void f_queue(stack_t **head, unsigned int counter);
 void f_stack(stack_t **head, unsigned int counter);
 
 
-#endif
+#endif /*MAIN_H*/
